@@ -7,7 +7,8 @@
     "gender": "male",
     "birthDay": "10",
     "birthMonth": "05",
-    "birthYear": "1992"
+    "birthYear": "1992",
+    "username": "ahmety"
   },
   {
     "email": "elif.kara@example.com",
@@ -17,7 +18,8 @@
     "gender": "female",
     "birthDay": "25",
     "birthMonth": "08",
-    "birthYear": "1987"
+    "birthYear": "1987",
+    "username": "elifk"
   },
   {
     "email": "cem.ozturk@example.com",
@@ -27,6 +29,7 @@
     "gender": "male",
     "birthDay": "03",
     "birthMonth": "11",
-    "birthYear": "2000"
+    "birthYear": "2000",
+    "username": "cemoz"
   }
 ]
